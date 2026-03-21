@@ -1,0 +1,7 @@
+id_inventario,id_producto,stock,bodega,motivo_rechazo
+I7014,,230,Sucursal 2,ID_producto_no_valido
+I7112,,183,Tránsito,ID_producto_no_valido
+I7113,,238,Central,ID_producto_no_valido
+I7120,,150,Tránsito,ID_producto_no_valido
+I7151,,113,Sucursal 2,ID_producto_no_valido
+I7161,,71,Tránsito,ID_producto_no_valido

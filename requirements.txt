@@ -1,1 +1,17 @@
+Parte 1 Conocimientos Ponderacion 15%
 
+1. ¿Que significa ETL?
+  Es el acronimo de Extract (Extraer), Transform (Transformar) y Load (Cargar)
+
+2. ¿Que hace la fase transform?
+  Aqui es donde se hacen limpiezas y ajustes como quitar duplicados, corregir formatos, limpiar textos, entre otros.
+
+3. ¿Para que sirve github?
+  Sirve para guardar, organizar y trabajar en proyectos de programación en equipo.
+
+4. ¿Qué es postgreSQL?
+  Es una base de datos relacional  como MySQL pero mas potente.
+
+5. ¿Qué libreria se usa en ETL con Python?
+  Pandas (La mas importante)
+  SQLAlchemy Para conectar bases de datos.

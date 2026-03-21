@@ -1,0 +1,15 @@
+id_producto,producto,precio,id_proveedor,motivo_rechazo
+PR1001,Teclado 1,61.12,,ID_proveedor_no_valido
+PR1020,Proyector 20,,P313,precio_no_valido
+PR1021,Audífonos 21,,P333,precio_no_valido
+PR1023,Tablet 23,,P302,precio_no_valido
+PR1052,Mouse 52,303.35,,ID_proveedor_no_valido
+PR1055,Mouse 55,,P332,precio_no_valido
+PR1065,Router 65,360.33,,ID_proveedor_no_valido
+PR1074,Webcam 74,49.22,,ID_proveedor_no_valido
+PR1077,Tablet 77,149.08,,ID_proveedor_no_valido
+PR1083,Silla 83,381.77,,ID_proveedor_no_valido
+PR1094,Silla 94,,P333,precio_no_valido
+PR1096,Disco SSD 96,,P314,precio_no_valido
+PR1127,Silla 127,1055.55,,ID_proveedor_no_valido
+PR1135,Mouse 135,,P312,precio_no_valido
